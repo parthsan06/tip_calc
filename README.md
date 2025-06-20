@@ -1,4 +1,4 @@
-# tip_calc
+# Tip Calculator
 This program splits the bill among any number of people, along with the tip.
 Useful when making a payment as a group.
 
