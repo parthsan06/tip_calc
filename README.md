@@ -1,20 +1,17 @@
 # tip_calc
-A brief description of what this project does and who it's for.
+This program splits the bill among any number of people, along with the tip.
+Useful when making a payment as a group.
 
 ## 🚀 Features
 
-- Add new contacts
-- Search contacts by name
-- Update existing contacts
-- Delete contacts
-- Data persistence with files (optional)
+- Input total bill, tip, number of people
+- Get back the amount each person should pay
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Language: Python 3
-- Concepts Used: Functions, Dictionaries, File Handling, Loops
 
 ---
 
